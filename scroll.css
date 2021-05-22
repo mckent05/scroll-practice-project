@@ -19,6 +19,14 @@
     z-index: 5555;
     
 }
+.fixed-nav .links a{
+    color: black;
+
+}
+.fixed-nav .links a:hover{
+    color: mediumturquoise;
+    
+}
 
 .header{
     position: relative;
